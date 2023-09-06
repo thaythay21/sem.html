@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(158, 92, 219);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: rgb(242, 246, 247);
+}
+h2{
+    color: rgb(7, 6, 7);
+}
+p{
+    font: size 100px;
+}
